@@ -5,7 +5,8 @@
     <classes>
       <class name="httpRequests.GetPostPutDelete">
         <methods>
-          <include name="getUser"/>
+          <include name="updateUser"/>
+          <include name="creatUser"/>
         </methods>
       </class> <!-- httpRequests.GetPostPutDelete -->
     </classes>
