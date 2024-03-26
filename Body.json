@@ -1,0 +1,9 @@
+{
+	"name" : "RestApi",
+	"location" : "sdet-qa",
+	"home" 	: "playwright",
+	"languages" : [
+		"java",
+		"c" 
+		]
+}

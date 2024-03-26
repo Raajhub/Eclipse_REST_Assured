@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="httpRequests.GetPostPutDelete">
+      <class name="diff_4_waysToCreat_jsonBody.Different_4ways_json_body_creation">
         <methods>
-          <include name="updateUser"/>
-          <include name="creatUser"/>
+          <include name="test_Post_use_POJO"/>
         </methods>
-      </class> <!-- httpRequests.GetPostPutDelete -->
+      </class> <!-- diff_4_waysToCreat_jsonBody.Different_4ways_json_body_creation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
