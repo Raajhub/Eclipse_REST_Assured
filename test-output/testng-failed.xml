@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="diff_4_waysToCreat_jsonBody.Different_4ways_json_body_creation">
+      <class name="Cookies_Headers.Cookies_Validation">
         <methods>
-          <include name="test_Post_use_POJO"/>
+          <include name="cookies"/>
         </methods>
-      </class> <!-- diff_4_waysToCreat_jsonBody.Different_4ways_json_body_creation -->
+      </class> <!-- Cookies_Headers.Cookies_Validation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
