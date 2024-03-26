@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-26T23:49:04 IST" name="Default suite" finished-at="2024-03-26T23:49:07 IST" duration-ms="2638">
+  <suite started-at="2024-03-27T01:34:59 IST" name="Default suite" finished-at="2024-03-27T01:35:02 IST" duration-ms="2523">
     <groups>
     </groups>
-    <test started-at="2024-03-26T23:49:04 IST" name="Default test" finished-at="2024-03-26T23:49:07 IST" duration-ms="2638">
-      <class name="LOGGGG.Logging_types">
-        <test-method signature="logloglog()[pri:0, instance:LOGGGG.Logging_types@17497425]" started-at="2024-03-26T23:49:04 IST" name="logloglog" finished-at="2024-03-26T23:49:07 IST" duration-ms="2571" status="PASS">
+    <test started-at="2024-03-27T01:34:59 IST" name="Default test" finished-at="2024-03-27T01:35:02 IST" duration-ms="2523">
+      <class name="Parsing_JSON_Response.Parsing_JsonResponse_Body">
+        <test-method signature="parsing_JsonBody_to_add_values_in_jsonObj()[pri:0, instance:Parsing_JSON_Response.Parsing_JsonResponse_Body@17497425]" started-at="2024-03-27T01:35:00 IST" name="parsing_JsonBody_to_add_values_in_jsonObj" finished-at="2024-03-27T01:35:02 IST" duration-ms="2441" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- logloglog -->
-      </class> <!-- LOGGGG.Logging_types -->
+        </test-method> <!-- parsing_JsonBody_to_add_values_in_jsonObj -->
+      </class> <!-- Parsing_JSON_Response.Parsing_JsonResponse_Body -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
