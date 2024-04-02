@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="file_Upload_n_Download.Files_Upload_Download">
+      <class name="authorization.Bearer_outh">
         <methods>
-          <include name="multiple_files_upload"/>
+          <include name="api_key_auth222"/>
+          <include name="api_key_auth111"/>
         </methods>
-      </class> <!-- file_Upload_n_Download.Files_Upload_Download -->
+      </class> <!-- authorization.Bearer_outh -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
